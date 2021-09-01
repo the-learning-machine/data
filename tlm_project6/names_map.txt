@@ -1,0 +1,6 @@
+stock0.csv -> BAC (Bank of America Corp)
+stock1.csv -> C (Citigroup Inc)
+stock2.csv -> GFI (Gold Fields Limited)
+stock3.csv -> INTC (Intel Corporation)
+stock4.csv -> KGC (Kinross Gold Corporation)
+stock5.csv -> NVDA (NVIDIA Corporation)
